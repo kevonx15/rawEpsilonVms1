@@ -15,7 +15,7 @@ namespace rawEpsilonVms.Models
         public string Password { get; set; }
         public string Center { get; set; }
         public string Skills { get; set; }
-        public DateTime Availalibity { get; set; }
+        public DateTime Availability { get; set; }
         public string StreetAddress1 { get; set; }
         public string StreetAddress2 { get; set; }
         public string City { get; set; }
